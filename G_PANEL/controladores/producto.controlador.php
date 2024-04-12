@@ -145,7 +145,7 @@ class ControladorProductos{
 				PRIMERO PREGUNTAMOS SI EXISTE OTRA IMAGEN EN LA BD
 				=============================================*/
 				
-				if(empty($_POST["fotoActual"])){
+				if(!empty($_POST["fotoActual"])){
 					unlink($_POST["fotoActual"]);
 				}else{
 					mkdir($directorio, 0777, true);
