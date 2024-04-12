@@ -343,7 +343,7 @@
                     </div>
                 </div>
             </div>
-            <!---<div class="py-1 animado" style="background: #eaeffac4;">
+            <div class="py-1 animado" style="background: #eaeffac4;">
                 <div class="container">
                     <div class="row align-items-center col-12 text-center">
                         <img class="img-logo-auspiciantes" src="assets/img/logos/logo-aza.png" alt="..." aria-label="AZA">
