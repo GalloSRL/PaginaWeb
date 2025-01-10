@@ -1,0 +1,41 @@
+{
+    "poppins": {
+        "100": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_100_a2e79d92a7c7af82fe81890bf122149d",
+        "200": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_200_829b99cab5486bb02a9548408ef0f807",
+        "200_italic": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_200_italic_8650363f5e769cd48607fc673fa3e51b",
+        "100_italic": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_100_italic_9c7b0d0b370551e5ae11d67a2e653c51",
+        "300": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_300_88a6cbc36b414978f32c966a9176b43a",
+        "300_italic": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_300_italic_3645e327f13b7f7cd2dc0264ce70d738",
+        "normal": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_normal_aa8e484aff376fbbf1d6c554511ac237",
+        "italic": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_italic_7334017fd2e200cf6cdc55a39bc90985",
+        "500": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_500_5c7e37d79f4e74664c8c59bffb4d8647",
+        "500_italic": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_500_italic_f2d9e9fbc57dad5423be9f90bdfb3835",
+        "600": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_600_95502d4c6cee32bdd7f00298447cfaaf",
+        "600_italic": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_600_italic_c13fac007c3d66162c8ec08aa1e0c719",
+        "bold": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_bold_ced2a362eae6b31c17c168a2be3da762",
+        "bold_italic": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_bold_italic_24e404514d28ceeb381f80fa57a2280e",
+        "800": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_800_7d36202085e82f0765a8d4d8f8b46c58",
+        "800_italic": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_800_italic_077af34d8c9d9eb9d7552acfc015f447",
+        "900": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/poppins_900_5e63d6bba6989e7a7c58d6f20854b7a7",
+        "900_italic": "poppins_900_italic_e2a81fc1c897157eb57b9e82c00b8b59"
+    },
+    "lilitaone": {
+        "900_italic": "lilitaone_900_italic_e2a81fc1c897157eb57b9e82c00b8b59"
+    },
+    "lilita one": {
+        "normal": "lilita_one_normal_76d65f8e555a377418ead3b740bce020"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_3cf38654b296b15e7aab8f865b72492f"
+    },
+    "font awesome\\ 5 brands": {
+        "normal": "font_awesome__5_brands_normal_8116d63b85aed66c3955ecbdb9609ba3"
+    },
+    "font awesome\\ 5 free": {
+        "normal": "\/home\/gallosrl\/public_html\/G_PANEL\/vista\/vendor\/dompdf\/vendor\/dompdf\/dompdf\/lib\/fonts\/font_awesome__5_free_normal_9e7f1e13bc2eb807a4174ec803ae8fe7",
+        "900": "font_awesome__5_free_900_7d102f2804527468cd62a8fb990e2c9f"
+    },
+    "material-design-iconic-font": {
+        "normal": "material_design_iconic_font_normal_cb7d1c35df7942e10ffafbfab57c72b5"
+    }
+}
