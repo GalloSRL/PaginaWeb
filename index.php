@@ -92,11 +92,12 @@
                     { latitud: -25.311575594921525, longitud: -57.613085634542365, titulo: 'GALLO - SUC. ASUNCIÓN', icono: 'assets/favicon.ico', descripcion: 'Tel: (021) 200 804-5<br>Cel: (0983) 414 346' },
 
                     { latitud: -25.374293958107497, longitud: -57.40976286726209, titulo: 'GALLO - SUC. RUTA 2', icono: 'assets/favicon.ico', descripcion: 'Tel: (0228) 631 901-2<br>Cel: (0985) 553 395' },
-
-                    { latitud: - 25.494716716793405, longitud: -54.707898917007874, titulo: 'GALLO - SUC. CDE', icono: 'assets/favicon.ico', descripcion: 'Tel: (061) 570 074-75<br>Cel: (0982) 680 560' },
-
+                    
+                    { latitud: -25.494716716793405, longitud: -54.707898917007874, titulo: 'GALLO - SUC. CDE', icono: 'assets/favicon.ico', descripcion: 'Tel: (061) 570 074-75<br>Cel: (0982) 680 560' },
+                    
                     { latitud: -25.23580360844154, longitud: -57.44869970508888, titulo: 'GALLO - SUC. LUQUE - SAN BERNARDINO', icono: 'assets/favicon.ico', descripcion: 'Tel: (021) 648 032-3<br>Cel: (0983) 113 515' },
-
+                    
+                    { latitud: -25.331113, longitud: -57.510288, titulo: 'GALLO - SUC. SAN LORENZO', icono: 'assets/favicon.ico', descripcion: 'Cel: (0987) 104 100<br>Cel: (0987) 104 700' },
                     // Agrega más ubicaciones de marcadores según sea necesario
 
                     
@@ -289,6 +290,7 @@
 
                         <a class="nav-link buttom" href="https://api.whatsapp.com/send?phone=+595983113515&text=Hola Gallo SRL, te contacto desde la web, quisiera mas información de... " target="_blank"><i class="fa-solid fa-caret-right ml-3 mr-4 text-gallo"></i> Suc. 8 - Luque - San Bernardino</a>
 
+                        <a class="nav-link buttom" href="https://api.whatsapp.com/send?phone=+595987104100&text=Hola Gallo SRL, te contacto desde la web, quisiera mas información de... " target="_blank"><i class="fa-solid fa-caret-right ml-3 mr-4 text-gallo"></i> Suc. 9 - San Lorenzo</a>
                     </div>
 
                 </div>
@@ -1235,6 +1237,20 @@
 
                                     </td>
 
+                                </tr>
+
+                                <tr class="tr">
+                                    <td class="td text-center">
+                                        Suc. 9 - Av. Gral. Eugenio A. Garay C/ Dr. Ramon Frizzola  - San Lorenzo
+                                    </td>
+                                    <td class="td text-center">
+                                        (0987) 104 100 / (0987) 104 700 
+                                    </td>
+                                    <td class="td text-center">
+                                        <a class="a-link" href="mailto:ventas1.luquesanber@gallosrl.com.py" data-bs-toggle="tooltip" data-bs-placement="top"
+                                        data-bs-custom-class="custom-tooltip"
+                                        data-bs-title="Envianos un correo dando click aquí.">ventas1.sanlorenzo@gallosrl.com.py</a>   
+                                    </td>
                                 </tr>
 
                             </tbody>
