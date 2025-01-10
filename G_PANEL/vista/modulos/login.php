@@ -33,7 +33,7 @@
                                 <input class="form-control" id="ingPassword" name="ingPassword"  type="password" placeholder="Contraseña">
                             </div>
                             <button class="btn signin">Login</button>
-                            <span class="forgot-pass"><p>Si Olvidó su contaseña, favor de contactar al departamento de Informática</p></span>
+                            <span class="forgot-pass"><p>Si Olvidó su contaseña, favor de contactar al Departamento de Informática</p></span>
                             <?php
                                 $login = new ControladorUsuarios();
                                 $login -> ctrIngresoUsuario();                                
